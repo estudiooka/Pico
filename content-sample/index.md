@@ -8,7 +8,7 @@ Description: Pico is a stupidly simple, blazing fast, flat file CMS.
 Congratulations, you have successfully installed [Pico](http://picocms.org/).
 %meta.description% <!-- replaced by the above Description meta header -->
 
-## Creating Content
+## Creating 
 
 Pico is a flat file CMS. This means there is no administration backend or
 database to deal with. You simply create `.md` files in the `content` folder
