@@ -15,12 +15,6 @@ database to deal with. You simply create `.md` files in the `content` folder
 and those files become your pages. For example, this file is called `index.md`
 and is shown as the main landing page.
 
-When you install Pico, it comes with a `content-sample` folder. Inside this
-folder is a sample website that will display until you add your own content.
-You should create your own `content` folder in Pico's root directory and place
-your files there. No configuration is required, Pico will automatically use the
-`content` folder if it exists.
-
 If you create a folder within the content folder (e.g. `content/sub`) and put
 an `index.md` inside it, you can access that folder at the URL
 `http://example.com/?sub`. If you want another page within the sub folder,
